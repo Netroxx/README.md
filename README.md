@@ -11,23 +11,23 @@
 
 -----
 # 👋 Hello! Welcome to my Github profile.
-## My name is Maria Clara and my nickname is "Maria"!
+## My name is Pedro Marçal and my nickname is "Pedro"!
 
 
-Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante fascinado pelos desafios da Engenharia de Software na PUC Minas, e que busca amiudadamente aprender e contribuir para a comunidade. fiquei, com um pouco sobre mim e meu percurso acadêmico.
 -----
 ## Sobre Mim
 
-- 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
+- 👨‍🎓 **Graduando**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 -----
 ## Habilidades
 
-- **Linguagens de Programação:** C, Phyton
+- **Linguagens de Programação:** C
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse, Replit
+- **Ferramentas:** Git, VS Code, Replit
 -----
 ## Ouvindo Spotify
 
