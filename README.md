@@ -29,30 +29,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante fascinado pelos desafios da 
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Replit
 -----
-## Ouvindo Spotify
 
-
- <div>
-      <div>
-        <details>
-          <summary><img height="20" alt="GIF"
-              src="[https://github.com/Netroxx/mariaoliveira27/assets/161609445/26a4c569-157b-4a9a-a1bf-a4e4db1049b7](https://github.com/Netroxx/README.md/edit/main/README.md)" /> Pedro's
-            Spotify Data</summary>
-          <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mps12yifjbb5s95wkmoggtg5g">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mps12yifjbb5s95wkmoggtg5g" alt="Data Card for Spotify">
-</a>
-        </details>
-      </div>
-      <div>
-        <img alt="Spotify" width="200px" height="270px"
-          src="https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-        &nbsp; &nbsp;
-        <img alt="Spotify list" width="200px" height="270px"
-          src="https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g" />
-      </div>
-    </div>
-
------
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/9bd74ec6-24db-4c40-b2b4-fb89033f0039" width="40" height="40"/>  <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/f2df1111-11a9-4e3e-b3e4-6b578dc3a1c8" width="40" height="40"/>  <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/0e92a60b-953b-48f4-9a86-0bb51a52667b" width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/35e24d20-a1e4-4486-bacf-c904da4f14c6"  width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/88ac7d7b-d0f9-46d6-8fce-13125d0506af"  width="40" height="40"/> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/df39a846-4b91-4152-98ba-edacdcef62c4"  width="40" height="40" /><img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/2c1acbd3-c55f-471c-8f1f-6395de2515c1"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />  <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/56d63c1f-270c-4ad5-a4f6-5cf171602f40" width="40" height="40" />
